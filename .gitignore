@@ -36,3 +36,8 @@ dist/
 # Result files
 *.res.txt
 *_res.txt
+
+# Local experiment folders
+giovi/
+olds/
+catboost_info/
