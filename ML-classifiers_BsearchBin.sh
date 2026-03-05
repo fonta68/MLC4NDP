@@ -17,11 +17,11 @@
 #	conda activate giovi		
 
 	NAME=$(echo $IN | cut -d. -f1)
-	L=$(echo $LABELS | tr ' ' '_')
+	L=$(echo $LABELS | tr ' ' '-')
 
 	echo "" > ${NAME}_${CLS}_${NUM}_res.txt
 	for ((i=1; i <= $NUM; ++i )); do
-		python3 ML-classifiers_BsearchBINClaude.py --infile $IN --cls $CLS --labels $LABELS >> ${NAME}_${CLS}_${L}_${NUM}_res.txt
+		python3 ML-classifiers_BsearchBin.py --infile $IN --cls $CLS --labels $LABELS >> ${NAME}_${CLS}_${L}_${NUM}_res.txt
 	done
 		
 	exit 0	
