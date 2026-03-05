@@ -1,0 +1,60 @@
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6774	0.6875	0.6667	0.6875	AUC:0.6292	Kappa:0.3542
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6452	0.7500	0.5333	0.6857	AUC:0.7375	Kappa:0.2851
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6774	0.6875	0.6667	0.6875	AUC:0.7708	Kappa:0.3542
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6129	0.5625	0.6667	0.6000	AUC:0.7250	Kappa:0.2282
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6774	0.6875	0.6667	0.6875	AUC:0.7250	Kappa:0.3542
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5161	0.6250	0.4000	0.5714	AUC:0.5667	Kappa:0.0252
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.4839	0.5000	0.4667	0.5000	AUC:0.5292	Kappa:-0.0333
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.7419	0.8750	0.6000	0.7778	AUC:0.7833	Kappa:0.4790
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6129	0.6250	0.6000	0.6250	AUC:0.6500	Kappa:0.2250
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5806	0.5000	0.6667	0.5517	AUC:0.6500	Kappa:0.1656
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5484	0.6250	0.4667	0.5882	AUC:0.5500	Kappa:0.0921
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5161	0.4375	0.6000	0.4828	AUC:0.5458	Kappa:0.0373
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5161	0.6250	0.4000	0.5714	AUC:0.6167	Kappa:0.0252
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.3871	0.3125	0.4667	0.3448	AUC:0.3708	Kappa:-0.2195
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5161	0.6250	0.4000	0.5714	AUC:0.5875	Kappa:0.0252
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5484	0.6875	0.4000	0.6111	AUC:0.6500	Kappa:0.0882
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5161	0.5000	0.5333	0.5161	AUC:0.5500	Kappa:0.0333
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6774	0.7500	0.6000	0.7059	AUC:0.7333	Kappa:0.3515
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.6774	0.7500	0.6000	0.7059	AUC:0.7583	Kappa:0.3515
+X_train shape: (122, 27)
+Bayesian search for LRC
+RES:0.5806	0.6250	0.5333	0.6061	AUC:0.5875	Kappa:0.1587

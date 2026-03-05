@@ -1,0 +1,7 @@
+
+X_train shape: (108, 27)
+Bayesian search for CBC
+RES:0.6429	0.7000	0.6111	0.5833
+X_train shape: (108, 27)
+Bayesian search for CBC
+RES:0.6429	0.6000	0.6667	0.5455

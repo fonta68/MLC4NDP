@@ -1,0 +1,13 @@
+name: ml-classifiers-bsearchbin
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip:
+      - scikit-optimize
+      - lightgbm
+      - catboost
