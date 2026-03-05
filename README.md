@@ -1,5 +1,7 @@
 # MLC4NDP
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Machine Learning Classifiers for Neurodegenerative Prediction.
 
 This repository contains Python scripts to run Bayesian hyperparameter search and evaluate multiple classifiers on neurodegenerative datasets.
