@@ -1,6 +1,0 @@
-X_train shape: (108, 27)
-X_train shape: (108, 27)
-X_train shape: (108, 27)
-X_train shape: (108, 27)
-X_train shape: (108, 27)
-X_train shape: (108, 27)

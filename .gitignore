@@ -28,3 +28,11 @@ dist/
 # Logs and local artifacts
 *.log
 *.tmp
+
+# Local datasets
+*.csv
+*.xlsx
+
+# Result files
+*.res.txt
+*_res.txt
